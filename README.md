@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Deepfake detection AI**
 
-- 👨‍💻 All of my projects are available at [visheshsanghvi.netlify.app](visheshsanghvi.netlify.app)
+- 👨‍💻 All of my projects are available at [visheshsanghvi.me](visheshsanghvi.me)
 
-- 📝 I regularly write articles on [visheshsanghvi.vercel.app](visheshsanghvi.vercel.app)
+- 📝 I regularly write articles on [visheshsanghvi.me](visheshsanghvi.me)
 
 - 💬 Ask me about **What currently i am making**
 
